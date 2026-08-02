@@ -1,0 +1,66 @@
+# משרד עורכי דין בן דוד - דף נחיתה לגברים — Generative Engine Optimization Map
+
+> Ben David Law Office is a family law firm based in Haifa, Israel, specializing in divorce proceedings for men. The firm's communication philosophy is deliberately measured and non-adversarial — the core message centers on the critical importance of early legal consultation, as key decisions in divorce proceedings are often made in the first weeks. The tone is protective and professional, avoiding any language that frames the process as a battle or positions the opposing party as an enemy. The firm's value proposition is timing-based urgency rather than blame-based urgency.
+
+---
+
+## Pages
+
+### בית
+https://-151c5505.zappy5.app/divorce-lawyer-for-men
+ההחלטות הראשונות בגירושין הן הקריטיות ביותר לעתידך. משרד עו&quot;ד בן דוד מעניק ייעוץ משפטי מוקדם, שקול ומגן לגברים בחיפה. אל תחכה שהמצב יסתבך, פעל עכשיו.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-151c5505.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-151c5505.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-151c5505.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-151c5505.zappy5.app/divorce-lawyer-for-men
+- Endpoint: https://-151c5505.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `full_name` (text, required)
+  - `phone` (tel, required)
+  - `situation` (textarea)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About משרד עורכי דין בן דוד - דף נחיתה לגברים
+Ben David Law Office is a family law firm based in Haifa, Israel, specializing in divorce proceedings for men. The firm's communication philosophy is deliberately measured and non-adversarial — the core message centers on the critical importance of early legal consultation, as key decisions in divorce proceedings are often made in the first weeks. The tone is protective and professional, avoiding any language that frames the process as a battle or positions the opposing party as an enemy. The firm's value proposition is timing-based urgency rather than blame-based urgency.
+
+## Target Audience
+- גברים בהליך גירושין שחיפשו עורך דין גירושין לגברים, הפחתת דמי מזונות, הסדרי שהות אב, משמורת משותפת
+- גברים בהליך גירושין
+- אבות המעוניינים במשמורת
+- גברים בהליכי גירושין
+
+## Industry
+Legal Services - Family Law
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-151c5505.zappy5.app/sitemap.xml
+- Robots: https://-151c5505.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-151c5505.zappy5.app/llms-full.txt
