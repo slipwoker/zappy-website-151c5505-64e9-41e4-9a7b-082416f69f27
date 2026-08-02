@@ -2241,7 +2241,7 @@ main { flex: 1 0 auto; }
   flex-direction: row-reverse;
   align-items: center;
   justify-content: space-between;
-  gap: 48px;
+  gap: 56px;
   width: 100%;
   max-width: 1200px;
   margin: 0 auto;
@@ -2264,11 +2264,11 @@ main { flex: 1 0 auto; }
 }
 
 .divorce-lawyer-for-men-hero-section .hero-headline {
-  font-size: 3rem;
+  font-size: 3.5rem;
   font-weight: 800;
   line-height: 1.2;
   color: var(--text-light);
-  margin-bottom: 24px;
+  margin-bottom: 28px;
   letter-spacing: -0.5px;
 }
 
@@ -2287,7 +2287,7 @@ main { flex: 1 0 auto; }
   background-color: var(--bg-light);
   color: var(--text-dark);
   border-radius: var(--radius-card, 8px);
-  padding: 32px 28px;
+  padding: 36px 32px;
   box-shadow: 0 8px 30px rgba(0, 0, 0, 0.2);
   direction: rtl;
   text-align: right;
@@ -2714,8 +2714,9 @@ main { flex: 1 0 auto; }
 .divorce-lawyer-for-men-services-section .services-grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  gap: var(--spacing-card-gap, 24px);
+  gap: 28px;
   direction: rtl;
+  padding: 0;
 }
 
 .divorce-lawyer-for-men-services-section .service-card {
@@ -2967,7 +2968,6 @@ main { flex: 1 0 auto; }
   }
 }
 
-/* faq */
 .divorce-lawyer-for-men-faq-section {
   background-color: var(--bg-light);
   color: var(--text-dark);
@@ -4617,6 +4617,101 @@ div[id*="mic-access-tool-box"] button[class*="reset"] * {
 .divorce-lawyer-for-men-faq-section .faq-ask-form-wrapper { margin-top: 40px !important; }
 .divorce-lawyer-for-men-faq-section .faq-ask-form-wrapper { padding: 32px 28px !important; }
 
+
+.divorce-lawyer-for-men-features-section .features-grid {
+  grid-template-columns: repeat(3, 1fr) !important;
+  gap: 28px !important;
+  padding: 0 !important;
+}
+
+.divorce-lawyer-for-men-features-section .feature-card {
+  padding: 32px 28px !important;
+}
+
+.divorce-lawyer-for-men-features-section .features-header {
+  margin-bottom: 48px !important;
+}
+
+.divorce-lawyer-for-men-features-section .features-header h2 {
+  font-size: 2rem !important;
+}
+
+.divorce-lawyer-for-men-services-section .services-grid {
+  grid-template-columns: repeat(3, 1fr) !important;
+  gap: 28px !important;
+  padding: 0 !important;
+}
+
+.divorce-lawyer-for-men-services-section .service-card {
+  padding: 28px !important;
+}
+
+.divorce-lawyer-for-men-services-section .services-header {
+  margin-bottom: 48px !important;
+}
+
+.divorce-lawyer-for-men-services-section .services-title {
+  font-size: 2rem !important;
+}
+
+.divorce-lawyer-for-men-about-section .about-body-text p {
+  text-align: right !important;
+}
+
+.divorce-lawyer-for-men-about-section .about-layout {
+  gap: 56px !important;
+}
+
+.divorce-lawyer-for-men-about-section .about-image-column {
+  flex: 0 0 340px !important;
+  max-width: 340px !important;
+}
+
+.divorce-lawyer-for-men-about-section .about-text-column {
+  text-align: right !important;
+}
+
+.divorce-lawyer-for-men-faq-section .faq-question {
+  padding: 22px 28px !important;
+  font-size: 18px !important;
+}
+
+.divorce-lawyer-for-men-faq-section .faq-answer {
+  padding: 24px 28px !important;
+}
+
+.divorce-lawyer-for-men-faq-section .faq-header {
+  margin-bottom: 44px !important;
+}
+
+.divorce-lawyer-for-men-final-cta-section .cta-band {
+  padding: 72px 16px !important;
+}
+
+.divorce-lawyer-for-men-final-cta-section .form-band {
+  padding: 56px 16px !important;
+}
+
+.divorce-lawyer-for-men-final-cta-section .form-grid {
+  gap: 28px !important;
+}
+
+.divorce-lawyer-for-men-final-cta-section .contact-row {
+  gap: 56px !important;
+}
+
+.divorce-lawyer-for-men-hero-section {
+  padding: 100px 16px 120px !important;
+  min-height: 90vh !important;
+}
+
+.site-footer {
+  padding: 64px 16px 32px !important;
+}
+
+.site-footer .footer-grid {
+  gap: 40px !important;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
