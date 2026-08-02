@@ -1440,7 +1440,7 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
       <p class="faq-subtitle">תשובות לשאלות המרכזיות שעולות בתחילת התהליך</p>
     </div>
     
-    <div class="faq-accordion">
+    <div class="faq-accordion">    <div class="faq-accordion">
       <details class="faq-item" open="">
         <summary class="faq-question">
           <span class="faq-question-text">האם לאב יש סיכוי לקבל משמורת משותפת?</span>
@@ -1511,6 +1511,25 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
         </div>
       </details>
     </div>
+
+    <div class="faq-ask-form-wrapper">
+      <h3 class="faq-ask-title">יש לך שאלה אחרת?</h3>
+      <p class="faq-ask-subtitle">נשמח לענות — מלא את הפרטים ונחזור אליך עם תשובה</p>
+      <form class="faq-ask-form" action="/thank-you" method="POST">
+        <div class="faq-ask-row">
+          <input type="text" name="full_name" placeholder="שם מלא" required="" aria-label="שם מלא">
+          <input type="tel" name="phone" placeholder="טלפון" required="" aria-label="טלפון">
+        </div>
+        <textarea name="question" rows="3" placeholder="כתוב כאן את השאלה שלך..." required="" aria-label="השאלה שלך"></textarea>
+        <div class="privacy-consent">
+          <label class="privacy-consent-label">
+            <input type="checkbox" name="privacy_consent" class="privacy-consent-checkbox" required="">
+            <span>קראתי ואני מסכים/ה ל<a href="/terms" target="_blank">תנאי השימוש</a> ול<a href="/privacy" target="_blank">מדיניות הפרטיות</a></span>
+          </label>
+        </div>
+        <button type="submit" class="faq-ask-btn">שליחת שאלה</button>
+      </form>
+    </div></div>
 
     <div class="faq-disclaimer">
       <small class="disclaimer-text">המידע בעמוד זה כללי ואינו מהווה ייעוץ משפטי או תחליף לו. כל מקרה נבחן לפי נסיבותיו.</small>
