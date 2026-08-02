@@ -4712,6 +4712,80 @@ div[id*="mic-access-tool-box"] button[class*="reset"] * {
 .site-footer .footer-grid {
   gap: 40px !important;
 }
+
+@media (max-width: 768px) {
+.divorce-lawyer-for-men-about-section .about-layout {
+  flex-direction: column !important;
+  flex-wrap: wrap !important;
+  width: 100% !important;
+  max-width: 100% !important;
+  gap: 36px !important;
+}
+
+.divorce-lawyer-for-men-about-section .about-image-column {
+  flex: 0 0 auto !important;
+  max-width: 260px !important;
+  width: 260px !important;
+  margin-inline: auto !important;
+}
+
+.divorce-lawyer-for-men-about-section .about-profile-photo {
+  width: 260px !important;
+  height: auto !important;
+}
+
+.divorce-lawyer-for-men-about-section .about-text-column {
+  width: 100% !important;
+  max-width: 100% !important;
+  padding: 0 !important;
+}
+
+.divorce-lawyer-for-men-features-section .features-grid {
+  padding: 0 8px !important;
+}
+
+.divorce-lawyer-for-men-features-section .feature-card {
+  padding: 24px 20px !important;
+  width: 100% !important;
+  max-width: 100% !important;
+}
+
+.divorce-lawyer-for-men-services-section .services-grid {
+  padding: 0 8px !important;
+}
+
+.divorce-lawyer-for-men-services-section .service-card {
+  padding: 24px 20px !important;
+  width: 100% !important;
+  max-width: 100% !important;
+}
+
+.divorce-lawyer-for-men-faq-section .faq-question {
+  padding: 18px 20px !important;
+  font-size: 16px !important;
+}
+
+.divorce-lawyer-for-men-faq-section .faq-answer {
+  padding: 20px !important;
+}
+
+.divorce-lawyer-for-men-final-cta-section .form-grid {
+  gap: 20px !important;
+}
+
+.divorce-lawyer-for-men-final-cta-section .contact-row {
+  gap: 28px !important;
+  flex-wrap: wrap !important;
+}
+
+.site-footer .footer-grid {
+  padding: 0 !important;
+}
+
+.divorce-lawyer-for-men-hero-section .hero-content-container {
+  gap: 36px !important;
+}
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
