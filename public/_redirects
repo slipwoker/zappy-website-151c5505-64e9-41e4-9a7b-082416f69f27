@@ -1,9 +1,8 @@
 # Clean URL redirects for Render static hosting
-# Generated: 2026-08-02T12:22:50.180Z
+# Generated: 2026-08-05T12:31:40.963Z
 # NOTE: Render uses render.yaml for routing, not _redirects (that is Netlify)
 # This file is kept for reference only
 
-/divorce-lawyer-for-men  /divorce-lawyer-for-men.html  200!
 /privacy  /privacy.html  200!
 /accessibility  /accessibility.html  200!
 /terms  /terms.html  200!

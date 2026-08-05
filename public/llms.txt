@@ -7,21 +7,21 @@
 ## Pages
 
 ### בית
-https://ben-david-law-office-landing-p.zappy5.app/divorce-lawyer-for-men
+https://gvarim.bendavidlaw.co.il
 ההחלטות הראשונות בגירושין הן הקריטיות ביותר לעתידך. משרד עו&quot;ד בן דוד מעניק ייעוץ משפטי מוקדם, שקול ומגן לגברים בחיפה. אל תחכה שהמצב יסתבך, פעל עכשיו.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://ben-david-law-office-landing-p.zappy5.app/privacy
+https://gvarim.bendavidlaw.co.il/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://ben-david-law-office-landing-p.zappy5.app/terms
+https://gvarim.bendavidlaw.co.il/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://ben-david-law-office-landing-p.zappy5.app/accessibility
+https://gvarim.bendavidlaw.co.il/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -34,8 +34,8 @@ Information about WCAG compliance and accessibility features.
 - Address: שד' ההסתדרות 66, חיפה, ישראל
 
 ### Contact form
-- URL: https://ben-david-law-office-landing-p.zappy5.app/divorce-lawyer-for-men
-- Endpoint: https://ben-david-law-office-landing-p.zappy5.app/api/email/contact-form
+- URL: https://gvarim.bendavidlaw.co.il
+- Endpoint: https://gvarim.bendavidlaw.co.il/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -64,6 +64,6 @@ Legal Services - Family Law
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://ben-david-law-office-landing-p.zappy5.app/sitemap.xml
-- Robots: https://ben-david-law-office-landing-p.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://ben-david-law-office-landing-p.zappy5.app/llms-full.txt
+- Sitemap (XML): https://gvarim.bendavidlaw.co.il/sitemap.xml
+- Robots: https://gvarim.bendavidlaw.co.il/robots.txt
+- Flattened page text (for LLMs): https://gvarim.bendavidlaw.co.il/llms-full.txt

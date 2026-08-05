@@ -2,13 +2,13 @@
 
 Ben David Law Office is a family law firm based in Haifa, Israel, specializing in divorce proceedings for men. The firm's communication philosophy is deliberately measured and non-adversarial — the core message centers on the critical importance of early legal consultation, as key decisions in divorce proceedings are often made in the first weeks. The tone is protective and professional, avoiding any language that frames the process as a battle or positions the opposing party as an enemy. The firm's value proposition is timing-based urgency rather than blame-based urgency.
 
-Source: https://ben-david-law-office-landing-p.zappy5.app
+Source: https://gvarim.bendavidlaw.co.il
 
 ---
 
 ## עורך דין גירושין לגברים – הגן על עתידך כבר מהיום — משרד עורכי דין בן דוד - דף נחיתה לגברים
 
-URL: https://ben-david-law-office-landing-p.zappy5.app/divorce-lawyer-for-men
+URL: https://gvarim.bendavidlaw.co.il
 Description: ההחלטות הראשונות בגירושין הן הקריטיות ביותר לעתידך. משרד עו&quot;ד בן דוד מעניק ייעוץ משפטי מוקדם, שקול ומגן לגברים בחיפה. אל תחכה שהמצב יסתבך, פעל עכשיו.
 
 עורך דין גירושין לגברים – הגן על עתידך כבר מהיום — משרד עורכי דין בן דוד - דף נחיתה לגברים
@@ -564,7 +564,7 @@ Avibd@bendavidlaw.co.il
 
 ## מדיניות פרטיות
 
-URL: https://ben-david-law-office-landing-p.zappy5.app/privacy
+URL: https://gvarim.bendavidlaw.co.il/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 דלג לתוכן הראשי
@@ -805,7 +805,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 ## הצהרת נגישות
 
-URL: https://ben-david-law-office-landing-p.zappy5.app/accessibility
+URL: https://gvarim.bendavidlaw.co.il/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 דלג לתוכן הראשי
@@ -1055,7 +1055,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 ## תנאי שימוש
 
-URL: https://ben-david-law-office-landing-p.zappy5.app/terms
+URL: https://gvarim.bendavidlaw.co.il/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 דלג לתוכן הראשי
