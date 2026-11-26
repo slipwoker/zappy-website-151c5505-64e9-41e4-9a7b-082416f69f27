@@ -4678,6 +4678,81 @@ div[id*="mic-access-tool-box"] button[class*="reset"] * {
 
 /* ZAPPY_POSTGEN_GUARD_HERO_TYPO:בית-hero (index-hero) — stripped 1 jarring hero headline effect(s) */
 
+
+.divorce-lawyer-for-men-father-rights-section {
+  background-color: var(--bg-light, #ffffff);
+  padding: 80px 32px;
+  direction: rtl;
+}
+
+.divorce-lawyer-for-men-father-rights-section .father-rights-container {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.divorce-lawyer-for-men-father-rights-section .father-rights-content {
+  text-align: right;
+  color: var(--text-dark, var(--primary-color, var(--primary, #1e2a5e)));
+  font-family: 'Assistant', sans-serif;
+}
+
+.divorce-lawyer-for-men-father-rights-section .father-rights-content h2 {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.3;
+  color: var(--text-dark, var(--primary-color, var(--primary, #1e2a5e)));
+  margin: 0 0 24px;
+}
+
+.divorce-lawyer-for-men-father-rights-section .father-rights-content h3 {
+  font-size: 1.375rem;
+  font-weight: 600;
+  line-height: 1.4;
+  color: var(--primary, var(--primary-color, var(--primary, #1e2a5e)));
+  margin: 32px 0 16px;
+}
+
+.divorce-lawyer-for-men-father-rights-section .father-rights-content p {
+  font-size: 1.05rem;
+  line-height: 1.7;
+  color: var(--text-dark, var(--primary-color, var(--primary, #1e2a5e)));
+  margin: 0 0 16px;
+}
+
+.divorce-lawyer-for-men-father-rights-section .father-rights-content ul {
+  margin: 0 0 20px;
+  padding-right: 24px;
+  list-style: disc;
+}
+
+.divorce-lawyer-for-men-father-rights-section .father-rights-content li {
+  font-size: 1.05rem;
+  line-height: 1.7;
+  color: var(--text-dark, var(--primary-color, var(--primary, #1e2a5e)));
+  margin-bottom: 10px;
+}
+
+.divorce-lawyer-for-men-father-rights-section .father-rights-content li strong {
+  color: var(--primary, var(--primary-color, var(--primary, #1e2a5e)));
+  font-weight: 700;
+}
+
+@media (max-width: 768px) {
+.divorce-lawyer-for-men-father-rights-section {
+  padding: 48px 16px;
+}
+
+.divorce-lawyer-for-men-father-rights-section .father-rights-content h2 {
+  font-size: 1.6rem;
+}
+
+.divorce-lawyer-for-men-father-rights-section .father-rights-content h3 {
+  font-size: 1.25rem;
+}
+}
+/* zappy-self-heal */
+.divorce-lawyer-for-men-father-rights-section { padding: 80px 32px !important; }
+
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
